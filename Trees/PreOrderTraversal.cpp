@@ -10,6 +10,8 @@ Constraints
 Output Format
 Print the tree's preorder traversal as a single line of space-separated values.
 
+Link:- https://www.hackerrank.com/challenges/tree-preorder-traversal/problem
+    
 CODE:-
 #include <bits/stdc++.h>
 
